@@ -82,7 +82,7 @@ export const BtnList = [
   },
   {
     label: "LinkedIn",
-    link: "https://www.linkedin.com/in/shreyansh-srivastav-bb50a2252/",
+    link: "https://www.linkedin.com/in/bababhallu/",
     icon: "linkedin",
     newTab: true,
   },

@@ -18,6 +18,9 @@ export const metadata = {
   },
   description:
     "Shreyansh Srivastav",
+  icons: {
+    icon: '/Bababhallu.jpeg',
+  },
 };
 
 export default function RootLayout({ children }) {
